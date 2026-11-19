@@ -1,4 +1,4 @@
-# Curso-DIO---Ciberseguran-a-do-Zero-a-pr-tica
+# Curso-DIO-Ciberseguran-a-do-Zero-a-pratica
 Curso: Santander DIO - Cibersegurança do Zero a prática
 DESAFIO Nº1
 Simulando um ataque de BRUT FORCE de senhas com o Software MEDUSA utilizando a Distro KALI LINUX.
